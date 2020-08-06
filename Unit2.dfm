@@ -198,8 +198,8 @@ object Form2: TForm2
     Top = 72
   end
   object MainMenu1: TMainMenu
-    Left = 72
-    Top = 72
+    Left = 88
+    Top = 80
     object File1: TMenuItem
       Caption = #1060#1072#1081#1083
       object Open1: TMenuItem
