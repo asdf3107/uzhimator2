@@ -2,7 +2,7 @@ object Form2: TForm2
   Left = 0
   Top = 0
   BorderIcons = [biSystemMenu, biMinimize]
-  Caption = #1050#1072#1088#1090#1080#1085#1082#1086'-'#1091#1078#1080#1084#1072#1090#1086#1088' 0.2b'
+  Caption = #1050#1072#1088#1090#1080#1085#1082#1086'-'#1091#1078#1080#1084#1072#1090#1086#1088' 0.2.2b'
   ClientHeight = 642
   ClientWidth = 1008
   Color = clBtnFace
